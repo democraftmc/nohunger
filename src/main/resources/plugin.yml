@@ -1,0 +1,8 @@
+name: NoHungerVaati
+main: com.vaatigames.noHungerVaati.NoHungerVaati
+version: 1.0
+api-version: 1.21
+commands:
+  nohungervaati:
+    description: Commande pour gérer la nourriture
+    usage: /<command>
